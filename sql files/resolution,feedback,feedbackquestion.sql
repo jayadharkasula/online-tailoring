@@ -1,3 +1,6 @@
+Create database onlineTailoringStore;
+use onlineTailoringStore;
+
 create table Resolution(
 resolutionId varchar(10) primary key,
 resolutionDate date,
